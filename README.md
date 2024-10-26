@@ -13,8 +13,8 @@ Sendo assim, foi solicitado para que você realize uma consulta no banco de dado
 ## Proposta
 Você precisará realizar 12 consultas ao banco de dados, cada uma retornando um tipo de informação.
 O seu banco de dados está modelado da seguinte maneira:
+![diagrama](https://github.com/user-attachments/assets/3cfa1eba-82e1-4e27-ae26-c4cf2577792a)
 
-![Diagrama banco de dados](Imagens/diagrama.png)
 
 As tabelas sao descritas conforme a seguir:
 
@@ -47,44 +47,49 @@ Criar diversas consultas, com o objetivo de retornar os dados a seguir.
 Abaixo de cada pedido tem o retorno esperado. O seu retorno deve ser igual ao da imagem.
 
 ## 1 - Buscar o nome e ano dos filmes
+![1](https://github.com/user-attachments/assets/a690665e-b8b7-482c-9227-d82afec185b2)
 
-![Exercicio 1](Imagens/1.png)
+
 
 ## 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
 
-![Exercicio 2](Imagens/2.png)
+![2](https://github.com/user-attachments/assets/c4d5ddcf-0e0d-41cc-ae7a-314c156e3c02)
 
 ## 3 - Buscar pelo filme de volta para o futuro, trazendo o nome, ano e a duração
 
-![Exercicio 3](Imagens/3.png)
+![3](https://github.com/user-attachments/assets/74d9dd3c-6c5f-4ad2-ae2f-0fb4e8b45b2e)
 
 ## 4 - Buscar os filmes lançados em 1997
+![4](https://github.com/user-attachments/assets/a454e7d4-3719-413b-a283-a8b01a09ca2f)
 
-![Exercicio 4](Imagens/4.png)
+
 
 ## 5 - Buscar os filmes lançados APÓS o ano 2000
+![5](https://github.com/user-attachments/assets/42085277-9ea6-4492-992a-e520d4582370)
 
-![Exercicio 5](Imagens/5.png)
+![5](https://github.com/user-attachments/assets/353cf711-acb6-4c38-8aba-8ea69ead79b3)
 
 ## 6 - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duracao em ordem crescente
 
-![Exercicio 6](Imagens/6.png)
+![6](https://github.com/user-attachments/assets/adaf52f7-d439-47a1-ba88-11d5db22a867)
+
 
 ## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
 
-![Exercicio 7](Imagens/7.png)
+![7](https://github.com/user-attachments/assets/1f3516c8-5693-4be5-83c1-a22c75bcecc8)
+
 
 ## 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
-
-![Exercicio 8](Imagens/8.png)
+![8](https://github.com/user-attachments/assets/6dc3ebc1-5566-44a8-a1f6-318adf8bccc2)
 
 ## 9 - Buscar os Atores do gênero feminino, retornando o PrimeiroNome, UltimoNome, e ordenando pelo PrimeiroNome
 
-![Exercicio 9](Imagens/9.png)
+![9](https://github.com/user-attachments/assets/29b78dc4-d0ed-4aba-9c81-d6c5756116dd)
+
 
 ## 10 - Buscar o nome do filme e o gênero
+![10](https://github.com/user-attachments/assets/ef43184f-2b49-41ff-904c-92104c6fde92)
 
-![Exercicio 10](Imagens/10.png)
 
 ## 11 - Buscar o nome do filme e o gênero do tipo "Mistério"
 
@@ -92,6 +97,4 @@ Abaixo de cada pedido tem o retorno esperado. O seu retorno deve ser igual ao da
 
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
-![Exercicio 12](Imagens/12.png)
 
-<p>Em desenvolvimento...</p>
